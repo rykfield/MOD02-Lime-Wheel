@@ -1,6 +1,6 @@
 <a name="README"></a>
 # MOD02-Lime-Wheel
-<img width="629" height="640" src="https://github.com/rykfield/MOD02-Lime-Wheel/raw/master/MOD02%20-%20Power%20Miners%20-%20Lime%20Wheel.jpg">
+<img width="640" height="629" src="https://github.com/rykfield/MOD02-Lime-Wheel/raw/master/MOD02%20-%20Power%20Miners%20-%20Lime%20Wheel.jpg">
 <BR>
 
 This Power Miners-themed version of the Lime Wheel is based principally upon Cadder's instructions, with minor changes to the drive gearing and wheel deck.  The Power Miner's theming is based up on the Control Cabin of the 8957 Mine Mech and the Drill from the 8960 Thunder Driller.  
