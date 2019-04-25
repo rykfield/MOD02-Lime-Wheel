@@ -8,6 +8,8 @@ This Power Miners-themed version of the Lime Wheel is based principally upon Cad
 <P>Video: https://www.youtube.com/watch?v=zf7hjXH3zBE
 <P>Instructions: https://github.com/rykfield/MOD02-Lime-Wheel/raw/master/MOD02%20-%20Power%20Miners%20-%20Lime%20Wheel.pdf
 <P>Parts List: https://raw.githubusercontent.com/rykfield/MOD02-Lime-Wheel/master/MOD02%20-%20Power%20Miners%20-%20Lime%20Wheel.xml
+<P>Design: <a href="https://github.com/rykfield/MOD02-Lime-Wheel/raw/master/MOD02%20-%20Power%20Miners%20-%20Lime%20Wheel.io">Stud.io source (.IO)</a>
+
 
 <P>
 <img src="https://github.com/rykfield/MOD02-Lime-Wheel/raw/master/MOD02%20-%20Power%20Miners%20-%20Lime%20Wheel.gif">
